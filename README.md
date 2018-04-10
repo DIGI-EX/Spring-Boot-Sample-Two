@@ -1,4 +1,4 @@
-# DigitalEx
+# Spring Boot Sample One Project 
 
 # Please Follow all steps carefully
 
